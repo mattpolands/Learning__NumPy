@@ -18,15 +18,15 @@ Key features of NumPy include:
 Example of the usage of NumPy:
 import numpy as np
 
-# Create a NumPy array
+*# Create a NumPy array*
 arr = np.array([1, 2, 3, 4, 5])
 
-# Perform element-wise computation
+*# Perform element-wise computation
 result = arr * 2
 
 print(result)  
 
-# Output: [2 4 6 8 10]
+*# Output: [2 4 6 8 10]
 
 In this example, a NumPy array arr is created, and a scalar value of 2 is multiplied to each element of the array using a vectorized operation. The result is a new array result where each element is multiplied by 2.
 
